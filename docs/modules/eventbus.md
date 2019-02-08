@@ -1,4 +1,4 @@
-# eventbus
+# EventBus
 ## **Overview** 
 Eventbus acts as an interface for sending/receiving messages on mqtt topics.
 
@@ -28,9 +28,9 @@ Note: topic wildcards
 
 ## **Flow chart**
 ### **1. eventbus sends messages from external client**
-![eventbus sends messages from external client](/images/eventbus/eventbus-handleMsgFromClient.jpg)
+![eventbus sends messages from external client](../images/eventbus/eventbus-handleMsgFromClient.jpg)
 
 ### **2. eventbus sends response messages to external client**
 
-![eventbus sends response messages to external client](/images/eventbus/eventbus-handleResMsgToClient.jpg)
+![eventbus sends response messages to external client](../images/eventbus/eventbus-handleResMsgToClient.jpg)
 

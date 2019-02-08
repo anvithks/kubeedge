@@ -7,7 +7,7 @@ Welcome to KubeEdge's documentation!
 ====================================
 
 
-.. figure:: https://github.com/kubeedge/website/blob/master/static/img/kubeedge-200.png
+.. figure:: docs/images/KubeEdge_logo.png
       :width: 150px
       :align: right
 
