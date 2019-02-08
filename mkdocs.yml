@@ -1,6 +1,6 @@
 site_name: KubeEdge Docs
 docs_dir: docs/
-nav:
+pages:
     - Home: index.md
     - Guides:
         - 'Unit Test Guide': guides/unit_test_guide.md
@@ -11,5 +11,6 @@ nav:
         - 'EventBus': modules/eventbus.md
         - 'MetaManager': modules/metamanager.md
         - 'EdgeHub': modules/edgehub.md
+        - 'Device Twin': modules/devicetwin.md
 
     
