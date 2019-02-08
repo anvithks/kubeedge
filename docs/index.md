@@ -1,17 +1,13 @@
-# Welcome to MkDocs
+# Welcome to KubeEdge
 
-For full documentation visit [mkdocs.org](https://mkdocs.org).
+KubeEdge is an open source system for extending native containerized application orchestration capabilities to hosts at Edge.
 
-## Commands
+## Why KubeEdge?
+Learn about KubeEdge and the KubeEdge Mission [here](/en/docs/kubeedge/)  
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs help` - Print this help message.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+## First Steps  
+To get the most out of KubeEdge, start by reviewing a few introductory topics:  
+[Setup](/en/docs/setup/) - Install KubeEdge  
+[Integrate with IEF](/en/docs/setup/#integrate-with-huaweicloud-intelligent-edgefabric-ief-https-www-huaweicloud-com-product-ief-html) - Integrate with the Intelligent Edge Fabric cloud  
+[Contributing](/en/docs/contributing/) - Contribute to KubeEdge  
+[Troubleshooting](/en/docs/troubleshooting) - Troubleshoot commonly occurring issues. GitHub issues are [here](https://github.com/kubeedge/kubeedge/issues)  

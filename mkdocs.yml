@@ -1,3 +1,15 @@
-site_name: My Docs
+site_name: KubeEdge Docs
+nav:
+    - Home: index.md
+    - Guides:
+        - 'Unit Test Guide': guides/unit_test_guide.md
+        - 'MQTT Message Topics': guides/message_topics.md
+    - Concepts:
+        - 'What is KubeEdge': kubeedge.md
+        - 'Beehive': modules/beehive.md
+        - 'EventBus': modules/eventbus.md
+        - 'MetaManager': modules/metamanager.md
+        - 'EdgeHub': modules/edgehub.md
 theme:
-  name: 'material'
+    custom_dir: 'themes/material'
+    name: 'material'
