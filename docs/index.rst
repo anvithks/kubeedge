@@ -18,7 +18,7 @@ application orchestration capabilities to hosts at Edge.
    :maxdepth: 2
    :caption: Guides
 
-   guides/message_topics.md.md
+   guides/message_topics.md
    guides/unit_test_guide.md
 
 .. toctree::
