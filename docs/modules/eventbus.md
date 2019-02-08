@@ -1,12 +1,12 @@
 # EventBus
-## **Overview** 
+## Overview
 Eventbus acts as an interface for sending/receiving messages on mqtt topics.
 
 It supports 3 kinds of mode:
 - internalMqttMode
 - externalMqttMode 
 - bothMqttMode
-## **Topic** 
+## Topic
 eventbus subscribes to the following topics:
 ```
 - $hw/events/upload/#
@@ -26,7 +26,7 @@ Note: topic wildcards
 | +  |  It matches exactly one item in the topic tree. |
 
 
-## **Flow chart**
+## Flow chart
 ### **1. eventbus sends messages from external client**
 ![eventbus sends messages from external client](../images/eventbus/eventbus-handleMsgFromClient.jpg)
 
