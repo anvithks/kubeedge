@@ -11,5 +11,6 @@ nav:
         - 'MetaManager': modules/metamanager.md
         - 'EdgeHub': modules/edgehub.md
 theme:
+    name: null
     custom_dir: 'themes/material'
-    name: 'material'
+    
