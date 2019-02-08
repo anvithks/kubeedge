@@ -16,10 +16,7 @@ application orchestration capabilities to hosts at Edge.
 
 .. toctree::
    :maxdepth: 2
-   :caption: Guides
-
-   guides/message_topics.md
-   guides/unit_test_guide.md
+   :caption: Getting Started
 
 .. toctree::
    :maxdepth: 2
@@ -31,4 +28,22 @@ application orchestration capabilities to hosts at Edge.
    modules/metamanager.md
    modules/edgehub.md
    modules/devicetwin.md
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Setup
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Guides
+
+   guides/message_topics.md
+   guides/unit_test_guide.md
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Troubleshooting
+
+
+
 
