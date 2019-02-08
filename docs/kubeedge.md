@@ -60,7 +60,7 @@ KubeEdge is composed of these components:
 
 ## Architecture
 
-![KubeEdge Architecture](../images/kubeedge_arch.png)
+![KubeEdge Architecture](images/kubeedge_arch.png)
 
 
 ## Getting involved
