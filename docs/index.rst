@@ -22,7 +22,7 @@ application orchestration capabilities to hosts at Edge.
    guides/unit_test_guide.md
 
 .. toctree::
-   :maxdepth: 6
+   :maxdepth: 2
    :caption: Concepts
 
    kubeedge.md
