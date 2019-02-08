@@ -10,7 +10,5 @@ nav:
         - 'EventBus': modules/eventbus.md
         - 'MetaManager': modules/metamanager.md
         - 'EdgeHub': modules/edgehub.md
-theme:
-    name: null
-    custom_dir: 'themes/material'
+
     
