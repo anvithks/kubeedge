@@ -8,6 +8,7 @@ It supports 3 kinds of mode:
 - bothMqttMode
 ## **Topic** 
 eventbus subscribes to the following topics:
+```
 - $hw/events/upload/#
 - SYS/dis/upload_records
 - SYS/dis/upload_records/+
@@ -16,7 +17,7 @@ eventbus subscribes to the following topics:
 - $hw/events/device/+/state/update
 - $hw/events/device/+/state/update/+
 - $hw/event/device/+/twin/+
-
+```
 Note: topic wildcards
 
 | wildcard  |  Description |
@@ -27,9 +28,9 @@ Note: topic wildcards
 
 ## **Flow chart**
 ### **1. eventbus sends messages from external client**
-![eventbus sends messages from external client](../images/eventbus/eventbus-handleMsgFromClient.jpg)
+![eventbus sends messages from external client](/images/eventbus/eventbus-handleMsgFromClient.jpg)
 
 ### **2. eventbus sends response messages to external client**
 
-![eventbus sends response messages to external client](../images/eventbus/eventbus-handleResMsgToClient.jpg)
+![eventbus sends response messages to external client](/images/eventbus/eventbus-handleResMsgToClient.jpg)
 

@@ -6,15 +6,29 @@
 Welcome to KubeEdge's documentation!
 ====================================
 
+
+.. figure:: https://github.com/kubeedge/website/blob/master/static/img/kubeedge-200.png
+      :width: 150px
+      :align: right
+
+KubeEdge is an open source system for extending native containerized 
+application orchestration capabilities to hosts at Edge.
+
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: Guides
 
+   guides/message_topics.md.md
+   guides/unit_test_guide.md
 
+.. toctree::
+   :maxdepth: 6
+   :caption: Concepts
 
-Indices and tables
-==================
+   kubeedge.md
+   modules/beehive.md
+   modules/eventbus.md
+   modules/metamanager.md
+   modules/edgehub.md
+   modules/devicetwin.md
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
