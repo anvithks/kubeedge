@@ -17,7 +17,7 @@ application orchestration capabilities to hosts at Edge.
 .. toctree::
    :maxdepth: 2
    :caption: Getting Started
-
+   
    getting-started.md
 
 .. toctree::
