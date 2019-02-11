@@ -19,7 +19,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = u'KubeEdge'
+project = u'KubeEdge Documentation'
 copyright = u'2019, KubeEdge'
 author = u'KubeEdge'
 
