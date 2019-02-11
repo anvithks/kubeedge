@@ -3,7 +3,7 @@
 KubeEdge is an open source system for extending native containerized application orchestration capabilities to hosts at Edge.
 
 ## Why KubeEdge?
-Learn about KubeEdge and the KubeEdge Mission [here](/en/docs/kubeedge/)  
+Learn about KubeEdge and the KubeEdge Mission [here](kubeedge)  
 
 ## First Steps  
 To get the most out of KubeEdge, start by reviewing a few introductory topics:  

@@ -101,7 +101,7 @@ html_static_path = ['_static']
 # 'searchbox.html']``.
 #
 # html_sidebars = {}
-html_logo = 'images/KubeEdge_logo.png'
+html_logo = 'images/kubeedge-logo-only.png'
 html_favicon = 'images/favicon.png'
 
 
