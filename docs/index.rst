@@ -19,6 +19,9 @@ application orchestration capabilities to hosts at Edge.
    :caption: Getting Started
    
    getting-started.md
+   contributing.md
+   roadmap.md
+   support.md
 
 .. toctree::
    :maxdepth: 2
@@ -33,7 +36,11 @@ application orchestration capabilities to hosts at Edge.
 
 .. toctree::
    :maxdepth: 2
-   :caption: Setup <#>
+   :caption: Setup
+
+   requirements.md
+   setup.md
+
 
 .. toctree::
    :maxdepth: 2
@@ -44,7 +51,9 @@ application orchestration capabilities to hosts at Edge.
 
 .. toctree::
    :maxdepth: 2
-   :caption: Troubleshooting <#>
+   :caption: Troubleshooting
+
+   troubleshooting.md
 
 
 
