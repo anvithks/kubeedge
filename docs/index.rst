@@ -19,7 +19,7 @@ application orchestration capabilities to hosts at Edge.
    :caption: Getting Started
    
    getting-started.md
-   contributing
+   contribute
    roadmap.md
    support.md
 
