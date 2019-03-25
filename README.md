@@ -4,7 +4,7 @@
 [![LICENSE](https://img.shields.io/github/license/kubeedge/kubeedge.svg?style=flat-square)](https://github.com/kubeedge/kubeedge/blob/master/LICENSE)
 [![Releases](https://img.shields.io/github/release/kubeedge/kubeedge/all.svg?style=flat-square)](https://github.com/kubeedge/kubeedge/releases)
 [![Documentation Status](https://readthedocs.org/projects/kubeedge/badge/?version=latest)](https://kubeedge.readthedocs.io/en/latest/?badge=latest)
-
+[![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=KubeEdge%20-%20A%20Kubernetes%20Native%20Edge%20Computing%20Framework&url=https://kubeedge.io/en/&via=KubeEdge&hashtags=kubernetes,edgecomputing,cloudnative)
 
 <img src="./docs/images/KubeEdge_logo.png">
 
